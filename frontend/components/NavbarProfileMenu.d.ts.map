@@ -1,0 +1,1 @@
+{"version":3,"file":"NavbarProfileMenu.d.ts","sourceRoot":"","sources":["NavbarProfileMenu.tsx"],"names":[],"mappings":"AAOA,UAAU,sBAAsB;IAC9B,OAAO,EAAE;QACP,WAAW,EAAE,MAAM,CAAC;QACpB,KAAK,EAAE,MAAM,CAAC;QACd,IAAI,EAAE,MAAM,CAAC;KACd,CAAC;CACH;AAED,MAAM,CAAC,OAAO,UAAU,iBAAiB,CAAC,EAAE,OAAO,EAAE,EAAE,sBAAsB,2CA0G5E"}
